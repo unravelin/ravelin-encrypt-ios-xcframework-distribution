@@ -33,6 +33,7 @@ We have two frameworks within the SDK:
         * an XCFramework:
             - supports both M1 and Intel architectures when developing via Simulator.
             - [How to use RavelinEncrypt.xcframework](https://github.com/unravelin/ravelin-encrypt-ios-xcframework-demo/blob/main/README.md)
+            - includes software developed by the "Marcin Krzyzanowski" (http://krzyzanowskim.com/) 
         * a legacy/"fat" framework: 
             - [How to use RavelinEncrypt.framework](https://github.com/unravelin/ravelin-ios/blob/master/RavelinEncrypt.md)
 
